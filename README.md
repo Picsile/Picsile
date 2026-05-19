@@ -1,4 +1,4 @@
-# Hi everyone! 👋 My name is Georgiy
+# Hi everyone! 👋 My name is George
 
 ### Frontend / Fullstack Developer
 
