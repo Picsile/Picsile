@@ -1,5 +1,4 @@
-## Hi there 👋
-# Привет!👋 Меня зовут Георгий 
+# Всем привет!👋 Меня зовут Георгий 
 
 ### Frontend / Fullstack Developer (Vue / Nuxt / UI/UX)
 
