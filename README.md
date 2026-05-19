@@ -1,18 +1,18 @@
-# Всем привет!👋 Меня зовут Георгий 
+# Hi everyone! 👋 My name is Georgiy
 
 ### Frontend / Fullstack Developer
 
-## 🧑‍💻 Обо мне
+## 🧑‍💻 About Me
 
-- 🎓 Обучаюсь на 4 курсе КСИПТ по специальности «Информационные системы и программирование»
-- 📈 Поддерживаю высокую академическую успеваемость
-- 🏆 Участвую в соревнованиях
-- 🚀 Активно развиваюсь вне учебной программы
-- ⚙️ Имею опыт разработки реальных проектов
-- 🎨 Проектирую и реализую удобные пользовательские интерфейсы (UI/UX)
-- 🤝 Эффективно работаю в команде и участвую в организации процессов
+- 🎓 Currently studying in the 4th year at KSIPT, majoring in “Information Systems and Programming”
+- 📈 Maintain strong academic performance
+- 🏆 Participate in competitions and hackathons
+- 🚀 Continuously improve my skills beyond the academic curriculum
+- ⚙️ Have experience developing real-world projects
+- 🎨 Design and build user-friendly interfaces (UI/UX)
+- 🤝 Work effectively in teams and contribute to process organization
 
-## 📬 Контакты
+## 📬 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B3%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BF%D0%B0%D1%80%D1%82%D0%B5%D0%BB%D0%B8%D0%B0%D0%BD%D0%B8-303429404/)
 [![Setka](https://img.shields.io/badge/Setka-000000?style=for-the-badge&logo=web&logoColor=white)](https://setka.ru/users/019c08b0-b294-73d3-8239-c8da444776c2)
@@ -20,25 +20,25 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ge0rge_Li)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:george.li.wd@gmail.com)
 
-## 🛠 Навыки
+## 🛠 Skills
 
 ![skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxt,react,tailwind,bootstrap,nodejs,php,mysql,git,figma)
 
-## 🚀 Последние проекты
+## 🚀 Recent Projects
 
 ### [Stil-Fit](https://stil-fit.ru/)
 
-**Веб-приложение для онлайн-примерки одежды с использованием генеративного ИИ.**  
-Fullstack MVP-продукт для создания персонализированных образов и виртуальной примерки одежды на основе пользовательских параметров. Проект охватывает полный цикл разработки: от проектирования архитектуры до запуска продукта с готовой интеграцией AI-сервисов.
+**AI-powered web application for virtual clothing try-on.**  
+A fullstack MVP product for creating personalized outfits and virtual fitting experiences based on user parameters. The project covers the entire development cycle — from architecture design to launching a production-ready product with integrated AI services.
 
-#### Роль в проекте
-- Спроектировал архитектуру fullstack-приложения и подготовил MVP к production
-- Разработал frontend на **Vue 3 + TypeScript + Tailwind CSS**
-- Реализовал backend-логику и REST API на **PHP (Yii2)**
-- Спроектировал структуру **MySQL database** с ролевой системой
-- Настроил **авторизацию, управление состоянием через Pinia и хранение пользовательских данных**
-- Интегрировал **AI-сервисы для генерации пользовательских образов**
-- Реализовал **5+ ключевых пользовательских сценариев**, включая профили, ленту и AI-генерацию
+#### My Role in the Project
+- Designed the architecture of the fullstack application and prepared the MVP for production
+- Developed the frontend using **Vue 3 + TypeScript + Tailwind CSS**
+- Implemented backend logic and REST API using **PHP (Yii2)**
+- Designed the **MySQL database** structure with a role-based system
+- Configured **authentication, state management with Pinia, and user data storage**
+- Integrated **AI services for personalized outfit generation**
+- Implemented **5+ key user scenarios**, including profiles, feed functionality, and AI generation
 
 ![stack](https://skillicons.dev/icons?i=vue,ts,tailwind,php,mysql,figma)
 
@@ -46,23 +46,23 @@ Fullstack MVP-продукт для создания персонализиро�
 
 ### Tinani
 
-**Сайт-портфолио для художницы с индивидуальным UX/UI и fullstack-архитектурой.**  
-Проект разработан с нуля: от UX/UI-проектирования до backend-логики и запуска в production. Основной акцент сделан на презентации работ автора и увеличении числа обращений от потенциальных клиентов.
+**Portfolio website for an artist with custom UX/UI and fullstack architecture.**  
+The project was developed from scratch — from UX/UI design to backend logic and production deployment. The main focus was on showcasing the artist’s work and increasing inquiries from potential clients.
 
-#### Роль в проекте
-- Спроектировал **UX/UI-макеты и пользовательские сценарии в Figma**
-- Разработал frontend на **Vue 3** с каталогом работ и навигацией
-- Реализовал backend на **Node.js** с интеграцией **MySQL**
-- Настроил взаимодействие между frontend и backend через **REST API**
-- Реализовал формы взаимодействия и отправку запросов через **Axios / Fetch**
-- Запустил production-ready сайт с возможностью дальнейшего масштабирования
-- Улучшил пользовательский путь, что помогло увеличить количество обращений после запуска
+#### My Role in the Project
+- Designed **UX/UI layouts and user flows in Figma**
+- Developed the frontend using **Vue 3** with a portfolio catalog and navigation
+- Implemented the backend using **Node.js** integrated with **MySQL**
+- Configured communication between frontend and backend via **REST API**
+- Implemented contact forms and request handling using **Axios / Fetch**
+- Deployed a production-ready website with scalability in mind
+- Improved the user journey, helping increase client inquiries after launch
 
 ![stack](https://skillicons.dev/icons?i=vue,js,tailwind,nodejs,mysql,figma)
 
-## 🤝 Готов к сотрудничеству
+## 🤝 Open to Collaboration
 
-Открыт к стажировкам, junior-позициям и проектной работе.
+Open to internships, junior positions, and freelance/project-based work.
 
 - Telegram: https://t.me/Ge0rge_Li
 - Email: george.li.wd@gmail.com
