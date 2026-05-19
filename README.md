@@ -1,6 +1,6 @@
 # Всем привет!👋 Меня зовут Георгий 
 
-### Frontend / Fullstack Developer (Vue / Nuxt / UI/UX)
+### Frontend / Fullstack Developer
 
 ## 🧑‍💻 Обо мне
 
