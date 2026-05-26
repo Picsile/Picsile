@@ -27,6 +27,7 @@
 ## 🚀 Recent Projects
 
 ### [Stil-Fit](https://stil-fit.ru/)
+#### https://github.com/Picsile/Stil-Fit
 
 **AI-powered web application for virtual clothing try-on.**  
 A fullstack MVP product for creating personalized outfits and virtual fitting experiences based on user parameters. The project covers the entire development cycle — from architecture design to launching a production-ready product with integrated AI services.
