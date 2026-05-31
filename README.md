@@ -46,6 +46,7 @@ A fullstack MVP product for creating personalized outfits and virtual fitting ex
 ##
 
 ### Tinani
+#### https://github.com/Picsile/Tinani.git
 
 **Portfolio website for an artist with custom UX/UI and fullstack architecture.**  
 The project was developed from scratch — from UX/UI design to backend logic and production deployment. The main focus was on showcasing the artist’s work and increasing inquiries from potential clients.
